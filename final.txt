@@ -1,0 +1,16 @@
+{"url":"girlstrength.net","status":"ok"}
+{"url":"eatfromnature.net","status":"ok"}
+{"url":"mymodernarts.com","status":"ok"}
+{"url":"elecbikes.net","status":"ok"}
+{"url":"housetrees.net","status":"ok"}
+{"url":"macrameworld.net","status":"ok"}
+{"url":"myurbanartist.com","status":"ok"}
+{"url":"mytinyfriends.com","status":"ok"}
+{"url":"superclay.net","status":"ok"}
+{"url":"diet4diabetes.net","status":"ok"}
+{"url":"procomposting.com","status":"ok"}
+{"url":"strengthbuild.com","status":"ok"}
+{"url":"greenforme.net","status":"ok"}
+{"url":"liquiddieting.net","status":"ok"}
+{"url":"myhomeschool.net","status":"ok"}
+{"url":"meastronomer.com","status":"ok"}
